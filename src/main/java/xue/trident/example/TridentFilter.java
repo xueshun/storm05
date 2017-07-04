@@ -92,6 +92,7 @@ public class TridentFilter {
 				return true;
 			}
 			return false;
+			
 		}
 		
 	}
