@@ -13,7 +13,6 @@ import storm.trident.testing.FixedBatchSpout;
 
 public class WordCountTopology {
 
-	private static final FixedBatchSpout SubjectsSpout = null;
 
 	public static StormTopology buildTopology(){
 		TridentTopology topology = new TridentTopology();
